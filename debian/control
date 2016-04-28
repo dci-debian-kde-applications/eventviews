@@ -45,7 +45,7 @@ Description: KDE PIM event handling - data files
  This package provides the data files used by the library.
 
 Package: libkf5eventviews-dev
-Section: libsdevel
+Section: libdevel
 Architecture: any
 Multi-Arch: same
 Depends: libkf5eventviews5 (= ${binary:Version}),
