@@ -39,7 +39,9 @@ Description: KDE PIM event handling - library
 Package: libkf5eventviews-data
 Architecture: all
 Multi-Arch: foreign
-Depends: ${misc:Depends}, ${shlibs:Depends}
+Depends: ${misc:Depends}
+Breaks: korganizer (<= 4:16.04)
+Replaces: korganizer (<= 4:16.04)
 Description: KDE PIM event handling - data files
  This library provides an event creator for KDE PIM.
  .
