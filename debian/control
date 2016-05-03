@@ -54,6 +54,7 @@ Multi-Arch: same
 Depends: libkf5akonadi-dev (>= 4:5.2.0~),
          libkf5akonadicalendar-dev (>= 5.2.0~),
          libkf5calendarsupport-dev (>= 5.2.0~),
+         libkf5calendarutils-dev (>= 5.2.0~),
          libkf5eventviews5 (= ${binary:Version}),
          ${misc:Depends},
          ${shlibs:Depends}
