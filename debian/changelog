@@ -1,3 +1,9 @@
+libkf5eventviews (4:16.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:11:26 +0200
+
 libkf5eventviews (4:16.04.0-1~1.gbpcbaf86) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @00c7fd9062bee5ee8e1b8a77e12410fe7f5480c7 **
