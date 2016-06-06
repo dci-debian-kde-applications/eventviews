@@ -1,10 +1,8 @@
-libkf5eventviews (4:16.04.1-1~1.gbp128774) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @1287741c6e39c1c465646064f1b7e0fb1cf2cd65 **
+libkf5eventviews (4:16.04.1-1) experimental; urgency=medium
 
   * Initial release.
   * Add missing Breaks/Replasces
   * Add -dev dependencies needed by the cmake file
-  * UNRELEASED
+  * Add new upstream patch: upstream_add_copying_files.patch
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 21:12:11 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 06 Jun 2016 22:22:20 +0200
