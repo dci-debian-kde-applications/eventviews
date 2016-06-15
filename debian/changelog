@@ -1,3 +1,11 @@
+libkf5eventviews (4:16.04.2-1~1.gbp26f89b) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @26f89bc41730dddf7d9e1b023c729d2faa398b10 **
+
+  * Refresh patches
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 03:12:11 +0200
+
 libkf5eventviews (4:16.04.1-1) experimental; urgency=medium
 
   * Initial release.
