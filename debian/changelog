@@ -1,14 +1,21 @@
-libkf5eventviews (4:16.04.1-0neon) xenial; urgency=medium
+libkf5eventviews (4:16.04.2-2) unstable; urgency=low
 
-  * New release
+  * Release to unstable.
 
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:11:26 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 07 Jul 2016 10:18:41 +0200
 
-libkf5eventviews (4:16.04.0-1~1.gbpcbaf86) UNRELEASED; urgency=medium
+libkf5eventviews (4:16.04.2-1) experimental; urgency=medium
 
-  ** SNAPSHOT build @00c7fd9062bee5ee8e1b8a77e12410fe7f5480c7 **
+  [ Automatic packaging ]
+  * Refresh patches
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 01 Jul 2016 21:34:18 +0200
+
+libkf5eventviews (4:16.04.1-1) experimental; urgency=medium
 
   * Initial release.
   * Add missing Breaks/Replasces
+  * Add -dev dependencies needed by the cmake file
+  * Add new upstream patch: upstream_add_copying_files.patch
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 30 Apr 2016 10:12:11 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 06 Jun 2016 22:22:20 +0200
