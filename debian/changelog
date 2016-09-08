@@ -1,6 +1,6 @@
-libkf5eventviews (4:16.08.0-1~1.gbp7c7903) UNRELEASED; urgency=medium
+libkf5eventviews (4:16.08.1-1~1.gbpa5c73d) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @7c7903f76ca947cea446f32a33d81505237aeaac **
+  ** SNAPSHOT build @a5c73d5098d5b58f78c368e35e9165c7c6298a4a **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @7df828be0f7f033d1f7f2425803cdca4fd876024 **
@@ -10,8 +10,9 @@ libkf5eventviews (4:16.08.0-1~1.gbp7c7903) UNRELEASED; urgency=medium
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
   * Refresh patches
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 21:12:11 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 21:12:33 +0200
 
 libkf5eventviews (4:16.04.2-2) unstable; urgency=low
 
