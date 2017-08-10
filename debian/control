@@ -12,6 +12,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5calendarsupport-dev (>= 5.2.0~),
                libkf5calendarutils-dev (>= 5.2.0~),
                libkf5codecs-dev (>= 5.19.0~),
+               libkf5contacts-dev,
                libkf5i18n-dev (>= 5.19.0~),
                libkf5identitymanagement-dev (>= 5.2.0~),
                libkf5libkdepim-dev (>= 5.2.0~),
@@ -40,8 +41,8 @@ Package: libkf5eventviews-data
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
-Breaks: korganizer (<= 4:16.04)
-Replaces: korganizer (<= 4:16.04)
+Breaks: korganizer (<= 4:16.04), ${kde-l10n:all}
+Replaces: korganizer (<= 4:16.04), ${kde-l10n:all}
 Description: KDE PIM event handling - data files
  This library provides an event creator for KDE PIM.
  .
