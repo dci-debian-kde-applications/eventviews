@@ -1,2 +1,4 @@
 etc/xdg/eventviews.categories
+etc/xdg/eventviews.renamecategories
 usr/share/kservicetypes5/calendardecoration.desktop
+usr/share/locale/
