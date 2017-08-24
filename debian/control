@@ -31,8 +31,8 @@ Package: libkf5eventviews-data
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
-Breaks: korganizer (<= 4:16.04), ${kde-l10n:all}
-Replaces: korganizer (<= 4:16.04), ${kde-l10n:all}
+Breaks: korganizer (<= 4:16.04), ${kde-l10n:all}, kde-l10n-ast (<< 4:17.03.90-0~), kde-l10n-eo (<< 4:17.03.90-0~),
+Replaces: korganizer (<= 4:16.04), ${kde-l10n:all}, kde-l10n-ast (<< 4:17.03.90-0~), kde-l10n-eo (<< 4:17.03.90-0~),
 Description: KDE PIM event handling - data files
  This library provides an event creator for KDE PIM.
  .
